@@ -39,4 +39,4 @@ v2. Создание программного обеспечения, позво
   
 * [Код ](https://github.com/Muha-bz/Cyber-AI-drone/blob/main/Cyber_AI/programm_Copter.py)
 * [Пояснительная записка](https://github.com/Muha-bz/Cyber-AI-drone/blob/main/Cyber_AI/Пояснительная%20записка.docx)
-* [результат проделанной работы](https://disk.yandex.ru/i/mKpjEilXAF9ebw)
+* [Видео результат проделанной работы](https://disk.yandex.ru/i/mKpjEilXAF9ebw)
